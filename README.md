@@ -17,5 +17,9 @@ The motivation for our project and some important background literature.
 2.  **Tutorial** <br/>
 A discursive explanation of the code we used in the research. 
 4.  **Output and Active Learning Exercises**  <br/>
-The Output and Active Learning Exercises consists of a **research poster** and an **interactive quiz**. The poster visually summarizes the research questions, methods, and key findings, presenting the results in an accessible format. The quiz is designed as an active learning exercise, encouraging viewers to engage critically with the findings by interpreting visualizations and reflecting on gender bias and international visibility on Wikipedia. 
+The Output and Active Learning Exercises consists of a **research poster** and an **interactive quiz**. The poster visually summarizes the research questions, methods, and key findings, presenting the results in an accessible format. The quiz is designed as an active learning exercise, encouraging viewers to engage critically with the findings by interpreting visualizations and reflecting on gender bias and international visibility on Wikipedia.
+
+> [!IMPORTANT]
+> **Scan the QR code within the poster to access the interactive quiz.** 
+
 
