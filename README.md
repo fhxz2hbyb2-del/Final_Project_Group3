@@ -2,7 +2,7 @@
 ### Final Group Project – Group 3
 <sup> Christina, Felipe, Lise Maartje </sup>
 
-In this repositoy, you will find our final version of the project for the course Collecting Data. We aim to investigate how gender and language shape representation on Wikipedia. We focus on focusing on biographical articles of twentieth-century writers from **Chile**, **Greece**, and the **Netherlands**. 
+In this repositoy, you will find our final version of the project for the course Collecting Data. We aim to investigate how gender and language shape representation on Wikipedia. We focus on biographical articles of twentieth-century writers from **Chile**, **Greece**, and the **Netherlands**. 
 
 <img width="402" height="280" alt="image" src="https://github.com/user-attachments/assets/9a0bd26c-6a73-404b-bf32-f928f9f8b9d0"/> 
 
