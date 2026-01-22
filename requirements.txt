@@ -1,0 +1,23 @@
+# Wikipedia Gender Representation Analysis - Requirements
+# Python dependencies for Jupyter Notebook analysis
+
+# Core data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# HTTP requests for Wikipedia API
+requests>=2.28.0
+
+# Statistical analysis
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter notebook
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For enhanced data export
+openpyxl>=3.1.0  # For Excel export if needed
