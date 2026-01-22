@@ -20,6 +20,51 @@ A discursive explanation of the code we used in the research.
 The Output and Active Learning Exercises consists of a **research poster** and an **interactive quiz**. The poster visually summarizes the research questions, methods, and key findings, presenting the results in an accessible format. The quiz is designed as an active learning exercise, encouraging viewers to engage critically with the findings by interpreting visualizations and reflecting on gender bias and international visibility on Wikipedia.
 
 > [!IMPORTANT]
-> **Scan the QR code within the poster to access the interactive quiz.** 
+> **Scan the QR code within the poster to access the interactive quiz.**
+
+### Prerequisites
+
+- Python 3.8+
+- pip package manager
+- Jupyter Notebook or JupyterLab
+
+## What the Notebook Analyzes
+
+### Metrics Extracted (for each writer)
+
+| Metric | Description |
+|--------|-------------|
+| **Word Count** | Total words in article |
+| **EN/Native Ratio** | English words ÷ Native words |
+| **Images** | Number of visual resources |
+| **References** | Number of citations |
+| **Internal Links** | Cross-references to other articles |
+| **Sections** | Article structural complexity |
+| **Languages** | Number of available language editions |
+
+### Statistical Analysis
+
+- Descriptive statistics by gender
+- Independent samples t-tests
+- Country-level comparisons
+- Visualization of patterns
+
+## Sample Writers
+
+### Chile
+- **Women:** Gabriela Mistral, Isabel Allende, Marcela Paz
+- **Men:** Pablo Neruda, Roberto Bolaño, José Donoso
+
+### Greece
+- **Women:** Kiki Dimoula, Katerina Gogou, Katerina Anghelaki-Rooke
+- **Men:** Dinos Christianopoulos, Manolis Anagnostakis, Nikos Kavvadias
+
+### Netherlands
+- **Women:** Annie M.G. Schmidt, Hella Haasse, Renate Dorrestein
+- **Men:** Harry Mulisch, Gerard Reve, Jan Wolkers
+
+## Data Source
+
+All data is collected from Wikipedia via the [MediaWiki API](https://www.mediawiki.org/wiki/API:Main_page) in accordance with Wikipedia's Terms of Use for academic research.
 
 
